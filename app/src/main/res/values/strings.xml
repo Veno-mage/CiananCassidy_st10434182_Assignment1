@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiplication Tables</string>
+    <string name="AppHeader">Multiplication Table</string>
+    <string name="Input">Enter the number</string>
+    <string name="Math">Multiply!</string>
+</resources>
